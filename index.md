@@ -12,3 +12,7 @@ int main(){
   return 0;
 }
 ```
+
+- [x] Go to GIthub education
+- [x] Learn new skill
+- [ ] Introduce yourself to the world of contribution
